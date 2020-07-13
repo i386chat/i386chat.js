@@ -1,0 +1,14 @@
+{
+  "name": "i386api",
+  "version": "0.0.1",
+  "description": "i386 Chat Client/Server API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Funey",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.3.0"
+  }
+}
